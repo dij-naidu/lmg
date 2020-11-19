@@ -1,2 +1,0 @@
-# lmg
-Linux Memory Grabber
